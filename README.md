@@ -1,2 +1,2 @@
-# Portafolio-Responsive
-Portafolio resposive para todos los dispositivos 
+# desarrollo-web-portafolio
+Proyecto realizado 
